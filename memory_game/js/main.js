@@ -18,7 +18,6 @@ cardsInPlay.push(cards[cardId]);
 
 if (cardsInPlay.length === 2) {
 	checkForMatch();
-	
 }
 };
 flipCard(0);
