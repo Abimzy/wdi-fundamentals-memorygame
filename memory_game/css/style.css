@@ -98,3 +98,15 @@ clear: both;
 height: 0;
 font-size: 0;
 }
+button {
+  background-color: #00A6B3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+}
